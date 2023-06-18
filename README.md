@@ -15,7 +15,7 @@
 <p align="center">My main focus these days is driving innovation and building exceptional digital business experiences by developing cutting-edge solutions and business-centric systems on the Salesforce platform.</p>
 
 <p align="center">
-  <h2>Languages and Tools 🛠</h2>
+  <h2 align="center">Languages and Tools 🛠</h2>
 </p>
 
 <p align="center">
