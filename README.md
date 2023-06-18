@@ -6,7 +6,7 @@
   <a href="https://trailblazer.me/id/aksh125"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" /></a>
 </p>
 
-<h1 align="center">Hi there, I'm Akshay 🤓</h1>
+<h1 align="center">Hi there, I'm Akshay 😊</h1>
 
 <p align="center">I'm a Lead Engineer at Apisero, specializing in building exceptional digital business experiences. With a strong focus on innovation, I design and develop cutting-edge solutions and business-centric systems on Salesforce.</p>
 
@@ -21,9 +21,13 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/teamcity/teamcity-icon.svg" alt="TeamCity" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/azure_devops/azure_devops-icon.svg" alt="Azure DevOps" width="40" height="40"/>
 
 </p>
 
