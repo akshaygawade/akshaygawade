@@ -15,7 +15,7 @@
 <p align="center">My main focus these days is driving innovation and building exceptional digital business experiences by developing cutting-edge solutions and business-centric systems on the Salesforce platform.</p>
 
 <p align="center">
-  <h2 align="center">Languages and Tools 🛠</h2>
+  <h2 align="center">LHere is a technology stack that I recently worked with: 🛠</h2>
 </p>
 
 <p align="center">
@@ -50,3 +50,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshaygawade&theme=radical&show_icons=true" width="410" alt="GitHub Stats"/>
 </p>
+---
+
+📕 **Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [Dynamic construction of GraphQL queries at runtime](https://blog.akshayweb.me/dynamic-construction-of-graphql-queries-at-runtime-workaround/)
+ 
+<!-- BLOG-POST-LIST:END -->
