@@ -50,11 +50,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshaygawade&theme=radical&show_icons=true" width="410" alt="GitHub Stats"/>
 </p>
----
 
+<p align="center">
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [Dynamic construction of GraphQL queries at runtime](https://blog.akshayweb.me/dynamic-construction-of-graphql-queries-at-runtime-workaround/)
+</p>
  
 <!-- BLOG-POST-LIST:END -->
