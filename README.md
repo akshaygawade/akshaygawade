@@ -53,7 +53,8 @@
 
 <p align="center">
 📕 **Latest Blog Posts**
-<a href="[https://github.com/akshaygawade](https://blog.akshayweb.me/dynamic-construction-of-graphql-queries-at-runtime-workaround/)" target="_blank"> Dynamic construction of GraphQL queries at runtime
+<a href="https://github.com/akshaygawade](https://blog.akshayweb.me/dynamic-construction-of-graphql-queries-at-runtime-workaround/" target="_blank"> 
+  <br/> Dynamic construction of GraphQL queries at runtime
 </a>
 <!-- BLOG-POST-LIST:START -->
 
