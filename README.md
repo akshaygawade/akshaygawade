@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshay-gawade/" target=”_blank” ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/akshay-gawade/" target=”_blank” ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target=”_blank” /></a>
   <a href="https://akshayweb.me/" target=”_blank” ><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" /></a>
   <a href="https://twitter.com/aksh_gawade" target=”_blank” ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:admin@akshayweb.me" target=”_blank” ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
