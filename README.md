@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi there, I'm Akshay 😊</h1>
 
-<p align="center">I'm a Lead Engineer at Apisero, specializing in building exceptional digital business experiences. With a strong focus on innovation, I design and develop cutting-edge solutions and business-centric systems on Salesforce.</p>
+<p align="center">I'm an Enterprise Technology Engineer at bp, specializing in building exceptional digital business experiences. With a strong focus on innovation, I design and develop cutting-edge solutions and business-centric systems on Salesforce.</p>
 
 <p align="center">In my latest project, <a href="https://github.com/akshaygawade/Lightning-Search">Repo Generic Lightning Search utility</a>, I used the GraphQL Wire Adapter lightning/uiGraphQLApi in LWC to provide a workaround for dynamically constructing GraphQL queries at runtime, such as referencing a fragment from another component. 🥳</p>
 
